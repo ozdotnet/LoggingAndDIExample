@@ -1,0 +1,8 @@
+C:\Users\ozkan\OneDrive\Documenten\Visual Studio 2017\Projects\LoggingAndDIExample\CatLibrary\bin\Debug\netstandard2.0\CatLibrary.deps.json
+C:\Users\ozkan\OneDrive\Documenten\Visual Studio 2017\Projects\LoggingAndDIExample\CatLibrary\bin\Debug\netstandard2.0\CatLibrary.dll
+C:\Users\ozkan\OneDrive\Documenten\Visual Studio 2017\Projects\LoggingAndDIExample\CatLibrary\bin\Debug\netstandard2.0\CatLibrary.pdb
+C:\Users\ozkan\OneDrive\Documenten\Visual Studio 2017\Projects\LoggingAndDIExample\CatLibrary\obj\Debug\netstandard2.0\CatLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Documenten\Visual Studio 2017\Projects\LoggingAndDIExample\CatLibrary\obj\Debug\netstandard2.0\CatLibrary.AssemblyInfoInputs.cache
+C:\Users\ozkan\OneDrive\Documenten\Visual Studio 2017\Projects\LoggingAndDIExample\CatLibrary\obj\Debug\netstandard2.0\CatLibrary.AssemblyInfo.cs
+C:\Users\ozkan\OneDrive\Documenten\Visual Studio 2017\Projects\LoggingAndDIExample\CatLibrary\obj\Debug\netstandard2.0\CatLibrary.dll
+C:\Users\ozkan\OneDrive\Documenten\Visual Studio 2017\Projects\LoggingAndDIExample\CatLibrary\obj\Debug\netstandard2.0\CatLibrary.pdb
