@@ -4,6 +4,7 @@ using Microsoft.Extensions.Logging;
 using NLog.Extensions.Logging;
 using System;
 
+
 namespace ConsoleApp
 {
     class Program
