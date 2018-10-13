@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/LoggingAndDIExample
+/CoreWebApplication/bin/Debug/netcoreapp2.1
+/CoreWebApplication/obj
+/ConsoleApp/obj/Debug
